@@ -23,6 +23,21 @@ reproducibility rather than as a general-purpose compression library.
 
 See the README in each component directory for its prerequisites and commands.
 
+## Publications
+
+- Xianzhi Zeng and Shuhao Zhang. "CStream: Parallel Data Stream Compression
+  on Multicore Edge Devices." *IEEE Transactions on Knowledge and Data
+  Engineering*, 36(11): 5889-5904, 2024.
+  https://doi.org/10.1109/TKDE.2024.3386862
+- Xianzhi Zeng and Shuhao Zhang. "Parallelizing Stream Compression for IoT
+  Applications on Asymmetric Multicores." *IEEE 39th International Conference
+  on Data Engineering*, 2023.
+  https://doi.org/10.1109/ICDE55515.2023.00078
+- Xianzhi Zeng and Shuhao Zhang. "A Hardware-Conscious Stateful Stream
+  Compression Framework for IoT Applications (Vision)." *17th ACM
+  International Conference on Distributed and Event-Based Systems*, 2023.
+  https://doi.org/10.1145/3583678.3596885
+
 ## License
 
 The repository is licensed under Apache License 2.0. Third-party components and
